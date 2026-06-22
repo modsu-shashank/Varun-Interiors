@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container footer-container">
         <div className="footer-brand">
           <Link to="/" className="footer-logo">
-            Varun <span>Interiors</span>
+            MVR <span>Interiors</span>
           </Link>
           <p className="footer-desc">
             Transforming spaces into timeless experiences. Premium interior design and architecture tailored to your lifestyle.
@@ -38,12 +38,12 @@ const Footer = () => {
           <ul>
             <li><MapPin size={18} /> 123 Premium Ave, Design District</li>
             <li><Phone size={18} /> +91 98765 43210</li>
-            <li><Mail size={18} /> hello@varun.com</li>
+            <li><Mail size={18} /> hello@mvr.com</li>
           </ul>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Varun Interiors. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} MVR Interiors. All rights reserved.</p>
       </div>
     </footer>
   );

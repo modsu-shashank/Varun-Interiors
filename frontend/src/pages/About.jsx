@@ -28,7 +28,7 @@ const About = () => {
             <span className="subtitle">Our Story</span>
             <h1>Designing the Extraordinary</h1>
             <p className="lead-text">
-              Varun Interiors is an award-winning design studio specializing in luxury residential and commercial spaces.
+              MVR Interiors is an award-winning design studio specializing in luxury residential and commercial spaces.
             </p>
             <p>
               Founded on the principle that your environment profoundly impacts your quality of life, we strive to create spaces that are not only visually stunning but also deeply functional. Our approach is deeply collaborative, ensuring that every project is a true reflection of our client's vision and lifestyle.

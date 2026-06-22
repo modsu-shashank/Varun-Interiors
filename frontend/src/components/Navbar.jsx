@@ -33,7 +33,7 @@ const Navbar = () => {
     <header className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          Varun <span>Interiors</span>
+          MVR<span>Interiors</span>
         </Link>
 
         {/* Desktop Menu */}

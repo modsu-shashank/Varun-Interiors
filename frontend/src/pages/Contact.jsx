@@ -91,7 +91,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3>Email Us</h3>
-                  <p>hello@varun.com</p>
+                  <p>hello@mvr.com</p>
                 </div>
               </div>
             </div>
