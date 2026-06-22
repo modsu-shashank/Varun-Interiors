@@ -1,0 +1,10 @@
+/* Cleaned App.css - Using index.css for global styles and module CSS for components */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
